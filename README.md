@@ -1,4 +1,4 @@
-# Connect with Four Game 🔴🟡
+# Connect with Four Game AI 🔴🟡
 
 Hey there! Welcome to my Connect Four game - a fun twist on the classic board game we all grew up playing. I built this during my learning journey with Python and thought it would be cool to share it with everyone.
 
