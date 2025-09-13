@@ -129,7 +129,3 @@ I'm still learning, so if you spot something weird or have cool ideas, let me kn
 This project taught me so much about game development, AI algorithms, and Python. It started as a simple "let me try making Connect Four" and turned into this whole thing with multiple AI difficulties and fancy graphics. 
 The Minimax algorithm was particularly fun to implement - watching the AI actually think strategically instead of making random moves felt like magic the first time it worked.
 Hope you enjoy playing it as much as I enjoyed building it! 
-
----
-
-*P.S. - If you manage to consistently beat Godmode, you're either really good at Connect Four or found a bug in my code! 😄*
