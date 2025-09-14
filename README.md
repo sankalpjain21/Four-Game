@@ -1,5 +1,8 @@
 # Connect with Four Game AI 🔴🟡
 
+
+![FourGame](https://github.com/user-attachments/assets/e12d1661-6516-45ca-bcf6-bc8f4aba0663)
+
 Hey there! Welcome to my Connect Four game - a fun twist on the classic board game we all grew up playing. I built this during my learning journey with Python and thought it would be cool to share it with everyone.
 
 What's This All About?
